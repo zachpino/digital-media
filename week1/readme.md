@@ -14,4 +14,3 @@ To get a server up and running, we need to complete several steps.
 - [Connect to the machine to edit its settings](serveraccess.md)
 - [Update the server and install software](lampinstall.md)
 - [Add files to serve](addpage.md)
-- [Next steps and homework](homework.md)
