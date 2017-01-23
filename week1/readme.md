@@ -13,4 +13,4 @@ To get a server up and running, we need to complete several steps.
 - [Prepare an access file](identityfile.md)
 - [Connect to the machine to edit its settings](serveraccess.md)
 - [Update the server and install software](lampinstall.md)
-- [Add files to serve](addpage.md)
+- [Add files to server](addpage.md)
