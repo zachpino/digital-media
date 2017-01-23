@@ -1,4 +1,4 @@
-## Welcome to Prototyping Interactions
+## Welcome to Digital Media!
 
 This site will serve as the primary course reference for the Institute of Design's Spring 2017 Digital Media course. Use these as notes in class, and outside of class for review. 
 
