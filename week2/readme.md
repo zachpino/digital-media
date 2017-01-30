@@ -13,4 +13,3 @@ Now, we will complete some leftover server configuration steps, and then move in
 - [Inline Elements](inline.md)
 - [Inline Styling with CSS](inline-css.md)
 - [Spans and Divs](span-div.md)
-- [Next steps and homework](homework.md)
