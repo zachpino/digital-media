@@ -9,4 +9,5 @@ Let's import a Javascript library, learn the basics of how to add scripts to a p
 - [Webfonts and Emoji](fonts.md)
 - [Import Jquery](jquery.md)
 - [Clicks, Add and Remove Elements](addremove.md)
+- [Hovering](hover.md)
 - [Animating CSS Properties](animate.md)
