@@ -6,7 +6,7 @@ Let's import a Javascript library, learn the basics of how to add scripts to a p
 - [Included Files](includes.md)
 - [Using Video in HTML](video.md)
 - [Webfonts and Emoji](fonts.md)
-- [Import Jquery](import.md)
+- [Import Jquery](jquery.md)
 - [Add and Remove Elements](addremove.md)
 - [Capturing Clicks](click.md)
 - [Animating CSS Properties](animate.md)
