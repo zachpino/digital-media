@@ -2,7 +2,7 @@
 
 ---
 
-We will construct the html structure of our page based on needing spaces for...
+[Our topic this week](readme.md) is interactivity, but first we will need to construct the html structure of our page with spaces for...
 
 - Project Title
 - Subtitle
