@@ -24,6 +24,8 @@
     },
     function(){
 		$("#more-info").text("The major parts of the platform...")
-	}	
+}	
     );
 ```
+
+And finally, some generalized [animation](animate.md)!
