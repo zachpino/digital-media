@@ -9,6 +9,8 @@ We will be basing our html structure on needing spaces for...
 
 To produce this, our grid system has been implemented as follows.
 
+Note that the grid system css rules have been linked as an external file, just like the css reset rules. A final css file will be included, `style.css`, which will contain general typography and layout rules for the page.
+
 ```
 <html>
 <head>
@@ -30,7 +32,7 @@ To produce this, our grid system has been implemented as follows.
 	<div id="container"> 
 		<div class="row">
 			<div class="col twelve aqua-title"> 
-				Future Aquarium
+				Future Aquatic Life
 			</div>
 		</div>
 		
@@ -86,6 +88,13 @@ To produce this, our grid system has been implemented as follows.
 			<div class="col three"><img class="storyboard-image" src="assets/sb/2.png"/></div>
 			<div class="col three"><img class="storyboard-image" src="assets/sb/3.png"/></div>
 			<div class="col three"><img class="storyboard-image" src="assets/sb/4.png"/></div>
+		</div>
+
+		<div class="row">
+			<div class="col three"><img class="storyboard-image" src="assets/sb/5.png"/></div>
+			<div class="col three"><img class="storyboard-image" src="assets/sb/6.png"/></div>
+			<div class="col three"><img class="storyboard-image" src="assets/sb/7.png"/></div>
+			<div class="col three"><img class="storyboard-image" src="assets/sb/8.png"/></div>
 		</div>
 	</div>
 </body>
