@@ -1,4 +1,8 @@
-We will be basing our html structure on needing spaces for...
+###Base Page Structure
+
+---
+
+We will construct the html structure of our page on needing spaces for...
 
 - Project Title
 - Subtitle
