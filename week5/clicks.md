@@ -2,7 +2,7 @@
 
 ---
 
-Let's do something when our user clicks using JQuery! Add a `<script>` tag at the bottom of your `<body`
+Let's do something when our user clicks [using JQuery](jquery.md)! Add a `<script>` tag at the bottom of your `<body`
 
 ```
 <script>
@@ -24,3 +24,5 @@ $(document).ready(function(){
 
 </script>
 ```
+
+Now, let's consider the user [hovering](hover.md).
