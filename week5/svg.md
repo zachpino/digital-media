@@ -1,7 +1,7 @@
 ###Adding SVG
 ---
 
-We can use Scalable Vector Graphics, produced from Adobe Illustrator, directly in our html documents!
+With our [video](video.md) in place, we can use Scalable Vector Graphics, produced from Adobe Illustrator, directly in our html documents!
 
 File->Save As->SVG
 
@@ -15,4 +15,4 @@ File->Save As->SVG
 	</svg>
 ```
 
-You can easily add classnames and ids to your SVG elements to make them addressable with css and javascript!
+You can easily add classnames and ids to your SVG elements to make them addressable with css and [javascript](jquery.md)!
