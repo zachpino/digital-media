@@ -1,6 +1,6 @@
 ### Hovering
 
-Let's do some hovering too!
+[Clicks](clicks.md) were easy. Let's do some hovering too!
 
 ```
     $("#system-ul").hover(function(){
