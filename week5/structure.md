@@ -2,7 +2,7 @@
 
 ---
 
-We will construct the html structure of our page on needing spaces for...
+We will construct the html structure of our page based on needing spaces for...
 
 - Project Title
 - Subtitle
@@ -104,3 +104,4 @@ Note that the grid system css rules have been linked as an external file, just l
 </body>
 </html>
   ```
+Now, let's make sure we satisfy the [appropriate dependencies](includes.md).
