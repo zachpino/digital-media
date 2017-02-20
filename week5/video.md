@@ -14,3 +14,4 @@ The `<video>` tag takes a `src` attribute, pointing it to an individual video fi
 
 Most importantly, though, are some useful attributes that don't take values. Namely, `autoplay`, `muted`, `controls` which respectively determine whether or not the video starts playing on page load, has sound, and show playback controls. Try your video with and without those attributes!
 
+We can now bring in [SVG content](svg.md) from Illustrator to complete the content on our page!
